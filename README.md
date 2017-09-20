@@ -1,2 +1,2 @@
 # hello_spring
-spring
+spring-starter
